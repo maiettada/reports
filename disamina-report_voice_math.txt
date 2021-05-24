@@ -1,0 +1,35 @@
+Riunione 24 Maggio 2021 - Disamina Report VoiceMath
+
+DLM:
+per ora contempla solo discorsi non interrotti
+
+*Mazzei: andrebbe ampliato il DLM, includendo più diciture matematiche
+
+*Mazzei: questione del parlato spontaneo
+
+
+BASELINE:
+stessi video con google per confrontare il risultato.
+
+
+AUDIO
+*Mazzei: dare misure dei problemi
+        qual è il benchmark?
+        come verificare che il rumore sia tollerabile/non tollerabile?
+        
+*Christian: le immagini: come le sincronizzi con il video?
+
+*Davide: correzioni mirate - fornite dal sistema? 
+(addestramento supervisionato)
+
+
+QUANTIFICARE GLI EFFETTI
+
+Quanto incide una ripetizione?
+Quanto incide una frase interrotta?
+Quanto incide l'audio in sé?
+Quanto incide il microfono/la distanza dal parlante/il rimbombo?
+
+Quantificazione degli effetti:
+
+MathPix: non è addestrabile
