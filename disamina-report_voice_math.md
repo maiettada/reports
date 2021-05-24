@@ -1,32 +1,31 @@
-Riunione 24 Maggio 2021 - Disamina Report VoiceMath
+# Riunione 24 Maggio 2021 - Disamina Report VoiceMath
 
-DLM :
+## DLM :
 per ora contempla solo discorsi non interrotti.
 
-*Mazzei: andrebbe ampliato il DLM, includendo più diciture matematiche.
+**Alessandro Mazzei**: 
+1)andrebbe ampliato il DLM, includendo più diciture matematiche.
+2)questione del parlato spontaneo. Non è fattibile annullarlo completamente.
 
-**Mazzei: questione del parlato spontaneo. Non è fattibile annullarlo completamente.
 
-
-BASELINE:
-*Adriano:
+## BASELINE:
+**Adriano Sofia**:
 Potremmo sottoporre gli stessi video a google per comparare la qualità dei risultati.
 
 
-AUDIO
-*Mazzei: è necessario dare una quantificazione dei problemi.
+## AUDIO
+**Alessandro Mazzei**:  è necessario dare una quantificazione dei problemi.
          L'approccio usato finora è solo qualitativo:
          Qual è il benchmark? Chi ci fornisce dei parametri per dichiarare quanto rumore è tollerabile e quanto non tollerabile?
         
-*Cristian: le immagini sottoposte ad OCR: come le sincronizzi con il video?
+**Cristian Bernareggi**: le immagini sottoposte ad OCR: come le sincronizzi con il video?
 
-*Davide: È possibile un approccio in cui un umano corregga i punti più critici (esempio: formule complesse)?
+**Davide Maietta*: È possibile un approccio in cui un umano corregga i punti più critici (esempio: formule complesse)?
 Le informazioni aggiunte dal correttore umano potrebbero confluire nel DLM, arricchendo il DLM del sistema. 
 (addestramento supervisionato)
 
-
-*Mazzei
-QUANTIFICARE GLI EFFETTI
+**Alessandro Mazzei**: 
+## QUANTIFICARE GLI EFFETTI
 Le conclusioni del report sono sempre troppo qualitative.
 Vorremmo delle misurazioni per validare un ragionamento:
 1)Quanto incide una ripetizione?
@@ -34,4 +33,4 @@ Vorremmo delle misurazioni per validare un ragionamento:
 3)Quanto incide l'audio in sé?
 5)Quanto incide il microfono/la distanza dal parlante/il rimbombo?
 
-MathPix: non è addestrabile
+## MathPix: non è addestrabile
