@@ -4,8 +4,8 @@
 per ora contempla solo discorsi non interrotti.
 
 **Alessandro Mazzei**: 
-1)andrebbe ampliato il DLM, includendo più diciture matematiche.
-2)questione del parlato spontaneo. Non è fattibile annullarlo completamente.
+1. andrebbe ampliato il DLM, includendo più diciture matematiche.
+2. questione del parlato spontaneo. Non è fattibile annullarlo completamente.
 
 
 ## BASELINE:
@@ -20,7 +20,7 @@ Potremmo sottoporre gli stessi video a google per comparare la qualità dei risu
         
 **Cristian Bernareggi**: le immagini sottoposte ad OCR: come le sincronizzi con il video?
 
-**Davide Maietta*: È possibile un approccio in cui un umano corregga i punti più critici (esempio: formule complesse)?
+**Davide Maietta**: È possibile un approccio in cui un umano corregga i punti più critici (esempio: formule complesse)?
 Le informazioni aggiunte dal correttore umano potrebbero confluire nel DLM, arricchendo il DLM del sistema. 
 (addestramento supervisionato)
 
@@ -28,9 +28,9 @@ Le informazioni aggiunte dal correttore umano potrebbero confluire nel DLM, arri
 ## QUANTIFICARE GLI EFFETTI
 Le conclusioni del report sono sempre troppo qualitative.
 Vorremmo delle misurazioni per validare un ragionamento:
-1)Quanto incide una ripetizione?
-2)Quanto incide una frase interrotta?
-3)Quanto incide l'audio in sé?
-5)Quanto incide il microfono/la distanza dal parlante/il rimbombo?
+1. Quanto incide una ripetizione?
+2. Quanto incide una frase interrotta?
+3. Quanto incide l'audio in sé?
+4. Quanto incide il microfono/la distanza dal parlante/il rimbombo?
 
 ## MathPix: non è addestrabile
