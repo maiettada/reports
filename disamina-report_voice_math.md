@@ -34,3 +34,6 @@ Vorremmo delle misurazioni per validare un ragionamento:
 4. Quanto incide il microfono/la distanza dal parlante/il rimbombo?
 
 ## MathPix: non è addestrabile
+Per le formule:
+-- vorremmo avere output
+-- confronto con altri sistemi? (equatio, infty)
